@@ -32,7 +32,11 @@ gem 'jbuilder', '~> 2.5'
 
 gem 'bootstrap-sass'
 
+gem 'devise'
+
 gem 'jquery-rails'
+
+gem 'enumerize'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
